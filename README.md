@@ -23,7 +23,7 @@ I'm Joseph Udomason
 - TypeScript
 - React, Next.js
 - Tailwind / Sass
-- UI libraries (Material UI, Chakra UI, Framer)
+- UI libraries (Material UI, Chakra UI, Framer, GSAP,Shadcn, AOS)
 
 ## My Toolbox 🧰
 
@@ -36,3 +36,6 @@ I'm Joseph Udomason
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![AOS](https://img.shields.io/badge/AOS-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
