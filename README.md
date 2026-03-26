@@ -7,6 +7,9 @@ I'm Joseph Udomason
 ## 🚀 What I do:
 - Build responsive, accessible web apps
 - Focus on performance and clean UI
+- Handle logics
+- Problem solving
+- Upscaling
   
 
 ## 📂 Featured Projects:
