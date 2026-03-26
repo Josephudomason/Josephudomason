@@ -18,8 +18,8 @@ I'm Joseph Udomason
 
 ## 📫 Contact:
 - Email: josephudomason5@gmail.com
-- LinkedIn: [Add your LinkedIn URL]
-- Portfolio: [Add your portfolio URL]
+- LinkedIn:
+- Portfolio:
 
 ## 🛠 Tech Stack:
 - HTML, CSS, JavaScript
