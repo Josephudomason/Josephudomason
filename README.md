@@ -2,11 +2,12 @@
 
 I'm Joseph Udomason
 
-💻 Software Developer (React, Next.js, TypeScript, Firebase, MongoDB)
+💻 Software Developer (React, Next.js, TypeScript)
 
 ## 🚀 What I do:
 - Build responsive, accessible web apps
 - Focus on performance and clean UI
+- Handle API Integration
 - Handle logics
 - Problem solving
 - Upscaling
@@ -23,11 +24,15 @@ I'm Joseph Udomason
 
 ## 🛠 Tech Stack:
 - HTML, CSS, JavaScript
-- TypeScript
+- TypeScript, jQuery
 - React, Next.js
-- Tailwind / Sass
+- Redux, Toolkit, Zustand, TanStack Query 
+- Node.js
+- Tailwind / Sass / Styled Components
 - UI libraries (Material UI, Chakra UI, Framer, GSAP,Shadcn, AOS)
+- Git/Github Actions & CI/CD
 - FireBase, MongoDB
+- Jest, React Testing Library, Vitest, Cypress
 
 ## My Toolbox 🧰
 
