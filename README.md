@@ -19,7 +19,7 @@ I'm Joseph Udomason
 
 ## 📫 Contact:
 - Email: josephudomason5@gmail.com
-- LinkedIn: https://www.linkedin.com/in/joseph-udomason-0ba1aa319/
+- LinkedIn: https://www.linkedin.com/in/joseph-udomason
 - Portfolio:
 
 ## 🛠 Tech Stack:
