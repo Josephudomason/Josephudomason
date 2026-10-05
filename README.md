@@ -25,7 +25,7 @@ I'm Joseph Udomason
 ## 📫 Contact:
 - Email: josephudomason5@gmail.com
 - LinkedIn: https://www.linkedin.com/in/joseph-udomason
-- Portfolio:
+- Portfolio: https://portfolio-gamma-olive-imulkw6n6a.vercel.app/
 
 ## 🛠 Tech Stack:
 - HTML, CSS, JavaScript
