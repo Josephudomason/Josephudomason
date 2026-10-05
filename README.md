@@ -3,14 +3,18 @@
 I'm Joseph Udomason
 
 💻 Software Developer (React, React-Native, Next.js, TypeScript, JavaScript)
+💻 Technical Writer, Tester & SEO Specialist
 
 ## 🚀 What I do:
 - Build responsive, accessible web & mobile apps
 - Focus on performance and clean UI
 - Handle API Integration
 - Handle logics
+- unit, component & E2E testing
 - Problem solving
 - Upscaling
+- Research & Technical writing
+- SEO
   
 
 ## 📂 Featured Projects:
