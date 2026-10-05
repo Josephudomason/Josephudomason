@@ -2,10 +2,10 @@
 
 I'm Joseph Udomason
 
-💻 Software Developer (React, Next.js, TypeScript)
+💻 Software Developer (React, React-Native, Next.js, TypeScript, JavaScript)
 
 ## 🚀 What I do:
-- Build responsive, accessible web apps
+- Build responsive, accessible web & mobile apps
 - Focus on performance and clean UI
 - Handle API Integration
 - Handle logics
@@ -25,14 +25,14 @@ I'm Joseph Udomason
 ## 🛠 Tech Stack:
 - HTML, CSS, JavaScript
 - TypeScript, jQuery
-- React, Next.js
+- React, React-Native, Next.js
 - Redux, Toolkit, Zustand, TanStack Query 
 - Node.js
-- Tailwind / Sass / Styled Components
-- UI libraries (Material UI, Chakra UI, Framer, GSAP,Shadcn, AOS)
+- Tailwind/ Native-Wind / Sass / Styled Components
+- UI libraries (Material UI, Chakra UI, Framer, GSAP,Shadcn, AOS & many more)
 - Git/Github Actions & CI/CD
-- FireBase, MongoDB
-- Jest, React Testing Library, Vitest, Cypress
+- FireBase, AppWrite, SupaBase, MongoDB
+- Jest, React Testing Library, React Native Testing Library, Vitest, Cypress
 
 ## My Toolbox 🧰
 
