@@ -23,6 +23,7 @@ I'm Joseph Udomason
 - [Health App](https://my-health-app-xi.vercel.app/)
 - [Prestine Gadgets](https://gadgets-online-store.vercel.app/)
 - [Kellz Bank](https://kellz-bank.vercel.app/login)
+- [Technical Writing Docs](https://github.com/Josephudomason/technical-writing-portfolio)
 
 ## 📫 Contact:
 - Email: josephudomason5@gmail.com
