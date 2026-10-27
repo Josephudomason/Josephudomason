@@ -21,6 +21,8 @@ I'm Joseph Udomason
 ## 📂 Featured Projects:
 - [Insurance App](https://insurance-nu-rust.vercel.app/)
 - [Health App](https://my-health-app-xi.vercel.app/)
+- [Prestine Gadgets](https://gadgets-online-store.vercel.app/)
+- [Kellz Bank](https://kellz-bank.vercel.app/login)
 
 ## 📫 Contact:
 - Email: josephudomason5@gmail.com
